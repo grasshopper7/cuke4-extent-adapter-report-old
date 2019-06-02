@@ -20,7 +20,7 @@
 		<documentTitle>Extent</documentTitle>
 		<!-- report name - displayed at top-nav -->
 
-		<reportName>GrassHopper Report</reportName>
+		<reportName>Grasshopper Report</reportName>
 		<!-- location of charts in the test view -->
 
 		<!-- top, bottom -->
