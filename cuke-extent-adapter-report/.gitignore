@@ -1,16 +1,9 @@
 /target/
 
-/extent/
-
-
-
+/test-output/
 
 /.settings/
 
-
-
 /.classpath
-
-
 
 /.project
