@@ -1,5 +1,3 @@
-# cuke4-extent-adapter
-Generating Extent reports for Cucumber-JVM version 4 using the extentreports-cucumber4-adapter plugin
 
 Refer to this for more details - http://grasshopper.tech/824/
 
