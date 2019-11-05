@@ -16,7 +16,6 @@ public class Stepdefs {
 	@When("Complete action in {string} step in {string}")
 	@Then("Validate the outcome in {string} step in {string}")
 	public void step(String step, String scenario) {
-		System.out.format("Thread ID - %2d %s step from %s.\n", Thread.currentThread().getId(), step.toUpperCase(),
-				scenario.toUpperCase());
+		System.out.format("%s step from %s.\n", step.toUpperCase(),	scenario.toUpperCase());
 	}
 }
