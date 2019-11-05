@@ -1,4 +1,4 @@
-Feature: Scenarios feature file
+Feature: Scenarios One feature file
 
   Scenario: Scenario Number One
     Given Write a 'given' step with precondition in 'Scenario One'
